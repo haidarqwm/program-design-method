@@ -1,0 +1,4 @@
+nando,1sampai8,Fernando,23/12/23,fernando.rachman@binus.ac.id
+jess,1sampai8,Jesslyn,23/12/23,jesslyn.edvilie@binus.ac.id
+bintang,1sampai8,Bintang,23/12/23,ksatria.samudra@binus.ac.id
+haidar,1sampai8,Haidar,23/12/23,haidar.qawama@binus.ac.id

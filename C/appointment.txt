@@ -1,0 +1,6 @@
+jesslyn,27/12/23,Dr. Jesslyn,08.10 - 09.00,Zoom
+jesslyn,28/12/23,Dr. Nando,10.10 - 11.00,Google Meet
+jesslyn,28/12/23,Dr. Nando,11.10 - 12.00,Google Meet
+fernando,12/12/12,Dr. Jesslyn,08.10 - 09.00,Zoom
+fernando,12/12/12,Dr. Jesslyn,08.10 - 09.00,Zoom
+jesslyn,31/12/23,Dr. Jesslyn,08.10 - 09.00,Zoom
